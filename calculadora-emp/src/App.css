@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Oswald,sans-serif;
+}
+
+html{
+  height: 100%;
+}
+
+body {
+  height: inherit;
+  background-color: rgb(228, 239, 239) ;
+  background-image: url('./imgs/background2.png');
+  background-size: cover;
+}
+
+#root{
+  height: inherit;
+}
