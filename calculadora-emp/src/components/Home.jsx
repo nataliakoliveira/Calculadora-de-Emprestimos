@@ -73,7 +73,7 @@ class Home extends React.Component {
             />
         <button
             type="button"
-            onClick={ this.calculateLoan }
+            onClick={ this.checkCNPJ }
         >
             Calcular
         </button>
